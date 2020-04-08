@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+##updated to new version xenial and attemppted to switch mongo version 
 sudo apt-get install gnupg
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv EA312927
 echo "deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse" |
